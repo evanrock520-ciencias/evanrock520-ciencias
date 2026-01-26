@@ -63,6 +63,10 @@ Trying not to die while learning **Computer Graphics**.
 
 ---
 
-## 🏫 Studying at
-- UNAM — Facultad de Ciencias ⭐
+## 📊 GitHub Analytics
+
+| My GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=evanrock520-ciencias&show_icons=true&theme=tokyonight&border_radius=10) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanrock520-ciencias&layout=compact&theme=tokyonight&border_radius=10) |
+
 
