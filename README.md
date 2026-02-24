@@ -1,4 +1,4 @@
-### Hi there! I'm Evan 👋
+# Hi there! I'm Evan 👋
 
 I'm a Computer Science student at **Facultad de Ciencias, UNAM** 🇲🇽  
 Trying not to die while learning **Computer Graphics**.
@@ -11,7 +11,6 @@ Trying not to die while learning **Computer Graphics**.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Graphics & Low-level
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
@@ -27,39 +26,33 @@ Trying not to die while learning **Computer Graphics**.
 
 ---
 
-## 📊 Skill Levels
+## 📚 Where I'm At
 
-**C++**  
-██████████░░░░ 70%
+**Comfortable with**
+- C++ (modern, performance-oriented)
+- Python (scripting, data, quick prototyping)
+- Git, CMake, Linux workflow
 
-**Python**  
-██████████░░░░ 70%
-
-**Computer Graphics (OpenGL / GLSL)**  
-████████░░░░░░ 60%
-
-**Math for CG (Linear Algebra, Geometry, Calculus)**  
-███████░░░░░░░ 50%
+**Actively learning**
+- Real-time rendering techniques
+- Physics simulation
+- Math for CG: linear algebra, differential geometry, calculus
+- OpenGL / HLSL / GLSL Fundamentals
+- Low-level engine architecture
 
 ---
 
 ## 🚧 Currently Working On
 
-- 🖥️ Computer Graphics projects (rendering, simulations, shaders)
-- ⚙️ C++ performance-oriented code
-- 🧪 Math & physics foundations for graphics
-- 🧩 Exploring low-level systems and engines
+- 🧵 **[ClothSDK](https://github.com/evanrock520/ClothSDK)** — C++ cloth simulation using XPBD, with Blender integration via pybind11
+- 🖥️ **GE-MyRoad** — documenting my path from zero to graphics engineer
+- 📐 Graph theory implementations for a university course
 
 ---
 
-## 🎯 Interests
+## 🎯 Where I Want to Go
 
-- Real-time rendering
-- Simulation & physics
-- Graphics engines
-- Scientific computing
-- Math-heavy CS topics
-- Procedural Animation
+I'm looking to get involved in graphics internships where I can apply physics simulation, rendering, or scientific computing. Long term, I would like to work on animation pipeline tools, physically-based character simulation, or research in differentiable physics for ML.
 
 ---
 
@@ -68,5 +61,3 @@ Trying not to die while learning **Computer Graphics**.
 | My GitHub Stats | Most Used Languages |
 | :---: | :---: |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=evanrock520-ciencias&show_icons=true&theme=tokyonight&border_radius=10) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanrock520-ciencias&layout=compact&theme=tokyonight&border_radius=10) |
-
-
