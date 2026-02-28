@@ -44,7 +44,7 @@ Trying not to die while learning **Computer Graphics**.
 
 ## 🚧 Currently Working On
 
-- 🧵 **[ClothSDK](https://github.com/evanrock520/ClothSDK)** — C++ cloth simulation using XPBD, with Blender integration via pybind11
+- 🧵 **[ClothSDK](https://github.com/evanrock520-ciencias/ClothSDK)** — C++ cloth simulation using XPBD, with Blender integration via pybind11
 - 🖥️ **GE-MyRoad** — documenting my path from zero to graphics engineer
 - 📐 Graph theory implementations for a university course
 
