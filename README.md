@@ -1,6 +1,6 @@
 # Hi there! I'm Evan 👋
 
-I'm a Computer Science student at **Facultad de Ciencias, UNAM** 🇲🇽  
+I'm a 2nd Semester Computer Science student at **Facultad de Ciencias, UNAM** 🇲🇽  
 Trying not to die while learning **Computer Graphics**.
 
 ---
@@ -44,9 +44,9 @@ Trying not to die while learning **Computer Graphics**.
 
 ## 🚧 Currently Working On
 
-- 🧵 **[ClothSDK](https://github.com/evanrock520-ciencias/ClothSDK)** — C++ cloth simulation using XPBD, with Blender integration via pybind11
+- 🧵 **[Tissu](https://github.com/evanrock520-ciencias/Tissu)** — C++ cloth simulation using XPBD, with Blender integration via pybind11
 - 🖥️ **GE-MyRoad** — documenting my path from zero to graphics engineer
-- 📐 Graph theory implementations for a university course
+- 🕶️ **Unity Shaders** - Implementing NPR shaders in Unity's URP.
 
 ---
 
