@@ -50,12 +50,6 @@ Trying not to die while learning **Computer Graphics**.
 
 ---
 
-## 🎯 Where I Want to Go
-
-I'm looking to get involved in graphics internships where I can apply physics simulation, rendering, or scientific computing. Long term, I would like to work on animation pipeline tools and physically-based character simulation.
-
----
-
 ## 📊 GitHub Analytics
 
 | My GitHub Stats | Most Used Languages |
