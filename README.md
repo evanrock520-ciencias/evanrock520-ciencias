@@ -6,7 +6,7 @@ Trying not to die while learning **Computer Graphics**.
 ---
 Take a look at my portfolio:
 
-https://evanrock520-ciencias.github.io/portfolio/
+[![Portfolio](portfolio-preview.png)](https://evanrock520-ciencias.github.io/portfolio)
 
 ---
 
