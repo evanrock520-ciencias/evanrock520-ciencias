@@ -2,12 +2,11 @@
 
 I'm a 3rd Semester Computer Science student at **Facultad de Ciencias, UNAM**.
 
-## Take a look at my portfolio 
-
-[Portfolio](https://evanrock520-ciencias.github.io/portfolio/)
+🍀 Interested in: Computer Graphics, Physics Simulation and DevOps
 
 ---
 
+## Check out my full [Portfolio](https://evanrock520-ciencias.github.io/portfolio/)
 
 <div align="center"> 
   <img src="gopher.gif" width="300">
