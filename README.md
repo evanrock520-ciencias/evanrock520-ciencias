@@ -2,8 +2,8 @@
 
 I'm a 3rd Semester Computer Science student at **Facultad de Ciencias, UNAM**.
 
-🍀 Interested in: Computer Graphics, Physics Simulation and DevOps
-📕 I'm currently learning: Houdini and Rust
+- 🍀 Interested in: Computer Graphics, Physics Simulation and DevOps
+- 📕 I'm currently learning: Houdini and Rust
 
 ---
 
